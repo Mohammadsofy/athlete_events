@@ -33,4 +33,5 @@ To run the analysis on your machine:
    - `athlete_events1.csv` https://github.com/Mohammadsofy/athlete_events/blob/main/athlete_events1.csv
    - `Olympic.ipynb` https://github.com/Mohammadsofy/athlete_events/blob/main/Olympic.ipynb
 2. Launch Jupyter Notebook and open:
+   ```bash
    jupyter notebook Olympic.ipynb
